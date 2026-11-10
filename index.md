@@ -2,8 +2,8 @@
 
 **Name:** Justin Lee  
 **Email:** jal174@ucsd.edu  
-**Section / Domain:** D05 - Deep learning techniques for understanding and mitigating electric energy costs at home  
-**Mentor:** Haojian Jin
+**Section / Domain:** D05 - Azimuth AI  
+**Mentors:** Haojian Jin, Michael Deisher, Sylvia Downing
 
 ---
 
